@@ -36,9 +36,8 @@ Currently deepening my expertise in DevOps engineering and working toward an AI/
 
 **Core Technologies**
 - Linux Systems Administration (Amazon Linux, Ubuntu, RHEL)
-- Git & GitHub
-- Python, Bash
-- Kubernetes (kubectl, Helm)
+- Version control (GitHub, CodeCommit,)
+- Networking & Security
 
 ## Current Focus
 
