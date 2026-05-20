@@ -1,6 +1,6 @@
 # Iviwe Mbesi - Cloud Support Engineer
 
-Cloud Support Engineer (Deployment Profile) @ Amazon Web Services 🚀 | Based in South Africa 🇿🇦 | Containers, Kubernetes & Cloud Infrastructure | AWS Certified | All opinions are my own.
+Cloud Support Engineer (Deployment Profile) @ Amazon Web Services ☁️ | Based in South Africa 🇿🇦 | Containers, Kubernetes & Cloud Infrastructure | AWS Certified | All opinions are my own.
 
 ## About Me
 
