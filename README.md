@@ -50,5 +50,6 @@ Currently deepening my expertise in DevOps engineering and working toward an AI/
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/iviwe-mbesi)
+[![Resume](https://img.shields.io/badge/Resume-View-green?style=flat&logo=github)](https://github.com/iviwembesi/iviwembesi/blob/main/RESUME.md)
 
 ---
