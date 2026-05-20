@@ -1,9 +1,6 @@
 # Iviwe Mbesi
 
-Cloud Support Engineer | AWS | Containers & Kubernetes | DevOps
-
-📍 South Africa | ✉️ iviwembesi@gmail.com | 📞 +27 64 661 1275 | [LinkedIn](https://www.linkedin.com/in/iviwe-mbesi)
-
+Cloud Engineer | SRE | Containers & Kubernetes | DevOps
 ---
 
 ## Skills
